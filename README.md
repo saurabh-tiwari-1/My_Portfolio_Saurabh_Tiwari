@@ -1,16 +1,108 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Saurabh Tiwari | Developer Portfolio
 
-Currently, two official plugins are available:
+Welcome to my personal developer portfolio!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am a B.Tech Computer Science and Engineering student passionate about software development, web technologies, and problem-solving.
 
-## React Compiler
+This portfolio is being developed to showcase my technical skills, projects, education, achievements, and professional journey.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Technologies Used
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+- ESLint
+- Git
+- GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Personal introduction
+- About me section
+- Technical skills showcase
+- Education details
+- Experience section
+- Projects showcase
+- Achievements
+- Contact information
+- Responsive design
+
+*Note: Features are being implemented progressively.*
+
+## 📂 Project Structure
+
+```text
+myportfolio/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## ⚙️ Installation Instructions
+
+### Prerequisites
+
+- Node.js
+- npm
+- Git
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/saurabh-tiwari-1/My_Portfolio_Saurabh_Tiwari.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd My_Portfolio_Saurabh_Tiwari
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start development server
+
+```bash
+npm run dev
+```
+
+### 5. Open in browser
+
+Visit http://localhost:5173/
+
+## 📸 Screenshots
+
+Screenshots will be added after completing the portfolio design.
+
+## 🌐 Live Demo
+
+Coming soon!
+
+## 👨‍💻 Author
+
+**Saurabh Tiwari**
+
+- GitHub: [saurabh-tiwari-1](https://github.com/saurabh-tiwari-1)
+
+## 📌 Project Status
+
+🚧 Currently under development.
+
+More features and improvements will be added as development progresses.
