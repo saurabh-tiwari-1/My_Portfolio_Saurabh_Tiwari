@@ -202,8 +202,8 @@ export const projects = [
       "A modern restaurant ordering platform designed to provide an engaging food discovery and online ordering experience. The website features an interactive food menu, exclusive meal deals, restaurant locations, a dynamic shopping cart, and a streamlined checkout experience.",
     image: extraBiteBuddyImage,
     tags: ["HTML", "CSS", "JavaScript", "Responsive Design"],
-    github: "https://github.com/saurabh-tiwari-1/ExtraBiteBuddy-Restaurant-Website-v2",
-    webapp: "YOUR_LIVE_WEBSITE_URL",
+    github: "https://github.com/saurabh-tiwari-1/ExtraBiteBuddy-Restaurant-Website-v3",
+    webapp: "https://saurabh-tiwari-1.github.io/ExtraBiteBuddy-Restaurant-Website-v3/",
   },
   {
     id: 4,
